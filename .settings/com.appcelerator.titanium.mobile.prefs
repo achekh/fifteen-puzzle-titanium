@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=Fifteen Puzzle
+android/abi=x86
+android/distribute_path=C\:\\Projects\\Titanium_Studio_Workspace\\Fifteen Puzzle\\build\\android
+android/keystore_alias=andrey.chekh@altexsoft.com
+android/keystore_password=nich@vo
+android/keystore_path=C\:\\Users\\chavo\\.ssh\\andrey.chekh
+android/recent_output=C\:\\Projects\\Titanium_Studio_Workspace\\Fifteen Puzzle\\build\\android
+android/sdk_version=Android 4.2.2
+eclipse.preferences.version=1

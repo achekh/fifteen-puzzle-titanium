@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<Label id="label">Пятнашки</Label>
+		<Button id="btnStart" onClick="startGame">Игра</Button>
+		<Button id="btnAbout" onClick="showAbout">About</Button>
+	</Window>
+</Alloy>
